@@ -1,4 +1,5 @@
 This is a fork of github.com/tears-of-noobs/gojira
+
 Fork includes only an update to "types.go", where StoryPoints has been added to the IssueFields struct, for personal need.
 
 # gojira                                                                                                                             
