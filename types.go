@@ -77,6 +77,7 @@ type IssueFields struct {
 	Description    interface{}        `json:"description"`
 	IssueLinks     []IssueLink        `json:"issueLinks"`
 	Status         IssueStatus        `json:"status"`
+	StoryPoints    float64        	  `json:"customfield_10008"`
 }
 
 type IssueFieldProgress struct {
